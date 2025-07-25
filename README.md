@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%88%D1%82%D0%B8%D0%BA%D0%B0-56424136b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sstika040@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/Sashaprofi17/"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-vandal__18-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-vandal__18-5865F2?style=for-the-badge&logo=discord&logoColor=lightgreen" />
 </p>
 
 ---
