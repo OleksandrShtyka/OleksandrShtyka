@@ -1,72 +1,61 @@
-<h1 align="center">Привіт! Я Олександр 👋</h1>
-<h3 align="center">Фулстек веб-розробник, який постійно вчиться і розвивається 💻🚀</h3>
+<h1 align="center">Oleksandr Shtyka</h1>
+<p align="center">
+  <strong>Fullstack Software Engineer | Architect | Researcher</strong><br>
+  Focused on High-Performance Web Systems, Modular Architecture & Digital Security.
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w2bnNwZTkxZDN4cXZsbnF3d3Z3ZTh3Y2p6YWxhd3F2Ynd2bnJ1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c01vFpJfEJw0W2b8Gk/giphy.gif" width="300" alt="anime girl">
+  <a href="https://orcid.org/YOUR_ORCID_ID">
+    <img src="https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="mailto:ashtyka.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mxkZj4BP8W) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sasha2005tt) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/олександр-штика) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sstika040) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/OleksandrShtyka) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30632323/oleksandr-shtyka) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sasha23h1) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/DrakoMoriarty) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/state42581) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/OleksandrShtyka) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sstika040@gmail.com) 
+### 🛡️ Digital Identity & Verification
+- **Verified Commits:** All contributions are cryptographically signed using SSH/Ed25519.
+- **Academic Presence:** Registered researcher at ORCID, bridging the gap between industry and R&D.
+- **Architecture Priority:** Focused on modularity, clean code, and type-safe systems (TS/React/Next.js).
 
 ---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OleksandrShtyka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OleksandrShtyka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrShtyka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OleksandrShtyka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OleksandrShtyka&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🎵 Now Playing on Spotify
-<p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ojtit63qxt5fxg7ir5noymtuoy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+### 💻 Core Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=OleksandrShtyka&icon=0&color=2)](https://visitcount.itsvg.in)
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrShtyka&theme=transparent&hide_border=true&show_icons=true&text_color=ffffff&title_color=4facfe&icon_color=4facfe" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrShtyka&theme=transparent&hide_border=true&layout=compact&text_color=ffffff&title_color=4facfe" width="42%" />
+</p>
 
 ---
 
-## 🎯 Інтереси
-- 💻 Програмування та створення веб-додатків  
-- 🎵 Прослуховування музики (особливо під час кодування)  
-- 🕹️ Грати в CS  
-- ☕ Прогулянки в парку або затишні кафе  
+### 🚀 Active Projects
+* **Antigram** — A high-performance Telegram client with "Liquid Glass" UI and advanced local persistence.
+* **Web Learning** — A repository for deep-diving into MAANG-level system design and frontend architecture.
 
 ---
+
+### 🌐 Professional Connectivity
+<p align="left">
+  <a href="https://linkedin.com/in/олександр-штика"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/OleksandrShtyka"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/30632323/oleksandr-shtyka"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+</p>
 
 <p align="center">
-  ✨ Дякую за увагу до мого профілю! ✨
+  <img src="https://visitcount.itsvg.in/api?id=OleksandrShtyka&icon=0&color=2" alt="Visitor Count" />
 </p>
