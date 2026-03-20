@@ -1,12 +1,12 @@
 <h1 align="center">Oleksandr Shtyka</h1>
 <p align="center">
   <strong>Fullstack Software Engineer | Architect | Researcher</strong><br>
-  Focused on High-Performance Web Systems, Modular Architecture & Digital Security.
+  Specializing in High-Performance Web Systems, Modular Architecture & Digital Security.
 </p>
 
 <p align="center">
-  <a href="https://orcid.org/YOUR_ORCID_ID">
-    <img src="https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  <a href="https://orcid.org/0009-0004-2349-758X">
+    <img src="https://img.shields.io/badge/ORCID-0009--0004--2349--758X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
   <a href="mailto:ashtyka.dev@gmail.com">
     <img src="https://img.shields.io/badge/Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -16,43 +16,57 @@
 ---
 
 ### 🛡️ Digital Identity & Verification
-- **Verified Commits:** All contributions are cryptographically signed using SSH/Ed25519.
-- **Academic Presence:** Registered researcher at ORCID, bridging the gap between industry and R&D.
-- **Architecture Priority:** Focused on modularity, clean code, and type-safe systems (TS/React/Next.js).
+- **Verified Contributions:** All code commits are cryptographically signed via SSH/Ed25519 for ultimate security.
+- **Scientific Identity:** Registered researcher at [ORCID (0009-0004-2349-758X)](https://orcid.org/0009-0004-2349-758X).
+- **Engineering Standards:** Focused on MAANG-level modularity, clean architecture, and type-safe systems.
 
 ---
 
-### 💻 Core Tech Stack
+### 💻 Technical Arsenal
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <strong>Frontend & Core:</strong>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+<p align="left">
+  <strong>Backend & Systems:</strong>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+</p>
+<p align="left">
+  <strong>Workflow & Environment:</strong>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_CLI-24292E?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Real-Time Performance Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrShtyka&theme=transparent&hide_border=true&show_icons=true&text_color=ffffff&title_color=4facfe&icon_color=4facfe" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrShtyka&theme=transparent&hide_border=true&layout=compact&text_color=ffffff&title_color=4facfe" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrShtyka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrShtyka&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="42%" />
 </p>
 
 ---
 
-### 🚀 Active Projects
-* **Antigram** — A high-performance Telegram client with "Liquid Glass" UI and advanced local persistence.
-* **Web Learning** — A repository for deep-diving into MAANG-level system design and frontend architecture.
+### 🚀 Strategic Projects
+* **Antigram** — Next-gen Telegram client (Next.js 15 / React 19) featuring "Liquid Glass" UI and advanced local persistence.
+* **Web Learning** — R&D sandbox for deep-diving into frontend architecture, cryptographic security, and system design patterns.
 
 ---
 
-### 🌐 Professional Connectivity
+### 🌐 Social Connect
 <p align="left">
   <a href="https://linkedin.com/in/олександр-штика"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/OleksandrShtyka"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/30632323/oleksandr-shtyka"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
