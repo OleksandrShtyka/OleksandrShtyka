@@ -62,10 +62,6 @@
 * **Antigram** — Next-gen Telegram client (Next.js 15 / React 19) featuring "Liquid Glass" UI and advanced local persistence.
 * **Web Learning** — R&D sandbox for deep-diving into frontend architecture, cryptographic security, and system design patterns.
 
----
-
-### 🌐 Social Connect
----
 
 ### 🌐 Social Connect
 <p align="left">
