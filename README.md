@@ -65,9 +65,13 @@
 ---
 
 ### 🌐 Social Connect
+---
+
+### 🌐 Social Connect
 <p align="left">
-  <a href="https://linkedin.com/in/олександр-штика"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oleksandr-shtyka-56424136b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/30632323/oleksandr-shtyka"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+  <a href="mailto:ashtyka.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
